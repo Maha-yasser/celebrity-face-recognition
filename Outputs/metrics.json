@@ -1,0 +1,28 @@
+{
+  "top1_accuracy": 0.8433,
+  "top3_accuracy": 0.9795,
+  "top5_accuracy": 0.9971,
+  "precision_weighted": 0.8487,
+  "recall_weighted": 0.8433,
+  "f1_macro": 0.8427,
+  "f1_weighted": 0.8422,
+  "per_class_f1": {
+    "Angelina Jolie": 0.8315,
+    "Brad Pitt": 0.8293,
+    "Denzel Washington": 0.8611,
+    "Hugh Jackman": 0.8571,
+    "Jennifer Lawrence": 0.7792,
+    "Johnny Depp": 0.975,
+    "Kate Winslet": 0.7955,
+    "Leonardo DiCaprio": 0.878,
+    "Megan Fox": 0.9048,
+    "Natalie Portman": 0.7317,
+    "Nicole Kidman": 0.8267,
+    "Robert Downey Jr": 0.9048,
+    "Sandra Bullock": 0.8333,
+    "Scarlett Johansson": 0.7561,
+    "Tom Cruise": 0.7714,
+    "Tom Hanks": 0.9268,
+    "Will Smith": 0.8642
+  }
+}
